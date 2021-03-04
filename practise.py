@@ -6,7 +6,7 @@ class Bird:
         print("Bird")
 
     def swim(self):
-        print("Swim faster")
+        print("Swims faster")
 
 
 class Penguin(Bird):
@@ -17,7 +17,7 @@ class Penguin(Bird):
     def whoisthis(self):
         print("Penguin")
     def run(self):
-        print("Run faster")
+        print("Runs faster")
 
 
 peggy = Penguin()
